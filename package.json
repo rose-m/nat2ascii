@@ -1,8 +1,9 @@
 {
   "name": "nat2ascii",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Simple tool / function to convert native-to-ascii and inverse",
   "main": "src/index.js",
+  "bin": "./src/index.js",
   "scripts": {
     "test": "npm run test"
   },
