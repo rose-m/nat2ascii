@@ -1,7 +1,7 @@
 {
   "name": "nat2ascii",
   "version": "1.0.0",
-  "description": "Simple tool / function to convert native-to-ascii and inverse\"",
+  "description": "Simple tool / function to convert native-to-ascii and inverse",
   "main": "src/index.js",
   "scripts": {
     "test": "npm run test"
@@ -14,11 +14,9 @@
     "ascii",
     "conversion",
     "native",
-    "charset",
-    "conversion",
-    "ascii"
+    "charset"
   ],
-  "author": "Michael Rose",
+  "author": "Michael Rose <michael_rose@gmx.de>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rose-m/nat2ascii/issues"
